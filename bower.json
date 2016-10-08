@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-de",
+  "description": "The most comprehensive collection of stopwords for the german language.",
+  "keywords": [
+    "german",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-de",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-de.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
