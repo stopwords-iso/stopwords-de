@@ -1,3 +1,6 @@
+Ernst
+Ordnung
+Schluss
 a
 ab
 aber
@@ -20,15 +23,9 @@ als
 also
 am
 an
-ander
 andere
-anderem
 anderen
-anderer
-anderes
-anderm
 andern
-anderr
 anders
 au
 auch
@@ -93,9 +90,7 @@ daß
 dein
 deine
 deinem
-deinen
 deiner
-deines
 dem
 dementsprechend
 demgegenüber
@@ -109,7 +104,6 @@ denn
 denselben
 der
 deren
-derer
 derjenige
 derjenigen
 dermassen
@@ -167,9 +161,7 @@ einem
 einen
 einer
 eines
-einig
 einige
-einigem
 einigen
 einiger
 einiges
@@ -181,7 +173,6 @@ ende
 endlich
 entweder
 er
-ernst
 erst
 erste
 ersten
@@ -193,10 +184,6 @@ etwas
 euch
 euer
 eure
-eurem
-euren
-eurer
-eures
 f
 folgende
 früher
@@ -252,7 +239,6 @@ gute
 guter
 gutes
 h
-hab
 habe
 haben
 habt
@@ -323,7 +309,6 @@ keine
 keinem
 keinen
 keiner
-keines
 kleine
 kleinen
 kleiner
@@ -418,7 +403,6 @@ oder
 offen
 oft
 ohne
-ordnung
 p
 q
 r
@@ -437,7 +421,6 @@ sagte
 sah
 satt
 schlecht
-schluss
 schon
 sechs
 sechste
@@ -503,13 +486,9 @@ um
 und
 und?
 uns
-unse
-unsem
-unsen
 unser
 unsere
 unserer
-unses
 unter
 v
 vergangenen
@@ -531,11 +510,9 @@ wahr?
 wann
 war
 waren
-warst
 wart
 warum
 was
-weg
 wegen
 weil
 weit
@@ -573,8 +550,6 @@ wirklich
 wirst
 wissen
 wo
-woher
-wohin
 wohl
 wollen
 wollt
