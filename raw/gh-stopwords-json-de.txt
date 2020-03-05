@@ -484,7 +484,7 @@ u
 uhr
 um
 und
-und?
+und
 uns
 unser
 unsere
@@ -506,7 +506,7 @@ vom
 von
 vor
 w
-wahr?
+wahr
 wann
 war
 waren

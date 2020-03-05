@@ -451,7 +451,7 @@
 	uhr             
 	um              
 	und             
-	und?            
+	und
 	uns             
 	unser           
 	unsere          
@@ -471,7 +471,7 @@
 	vom             
 	von             
 	vor             
-	wahr?           
+	wahr
 	während         
 	währenddem      
 	währenddessen   
